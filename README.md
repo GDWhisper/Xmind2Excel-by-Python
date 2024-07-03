@@ -1,3 +1,3 @@
-基于Python新手编写的Xmind转Excel测试用例脚本
+基于Python新手编写的Xmind转Excel测试用例脚本\n
 只要符合模板格式，理论上Xmind8及之后发行的任何版本都可以转化
 该脚本主要适配了Pingcode平台用例导入的格式，如无需要可自行修改格式
